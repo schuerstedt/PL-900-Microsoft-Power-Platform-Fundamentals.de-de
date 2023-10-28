@@ -49,8 +49,6 @@ Aufgabe 2: Erstellen der Umgebung
 
     1. Wählen Sie als **Typ** die Option **Testversion** aus (Wählen Sie nicht die Option *Testversion (abonnementbasiert)* aus).
 
-Marcus: Wenn dies mit einer Fehlermeldung abgelehnt wird, kann auch ein Entwickler Umgebung erstellt werden. Hier wird dann automatisch ein Dataverse installiert. 
-
     1. Ändern Sie die Umschaltfläche für **Dataverse-Datenspeicher hinzufügen?** in **Ja**. 
 
     1. Behalten Sie für alle anderen Auswahlmöglichkeiten die Standardwerte bei, und wählen Sie **Weiter** aus. 
@@ -59,7 +57,9 @@ Marcus: Wenn dies mit einer Fehlermeldung abgelehnt wird, kann auch ein Entwickl
 
     1. Aktivieren Sie das Kontrollkästchen für das Element **Keine** unter der Überschrift **Zugriff öffnen**, und wählen Sie dann **Fertig** aus.
 
-    1. Behalten Sie für die restlichen Optionen die Standardwerte bei, und wählen Sie **Speichern** aus. 
+    1. Behalten Sie für die restlichen Optionen die Standardwerte bei, und wählen Sie **Speichern** aus.
+  
+Marcus: Wenn dies mit einer Fehlermeldung abgelehnt wird, kann auch eine Entwickler Umgebung erstellt werden. Hier wird dann automatisch ein Dataverse installiert. 
 
 1.  Ihre **Übungsumgebung** sollte nun in der Umgebungsliste erscheinen. 
 
