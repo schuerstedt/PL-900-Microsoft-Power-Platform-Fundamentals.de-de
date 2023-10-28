@@ -35,6 +35,7 @@ Aufgabe 1: Erhalten Ihres Microsoft Power Platform-Testmandanten
 
 1.  Wählen Sie **Ja** aus, um angemeldet zu bleiben. 
 
+Marcus: Wenn kein Microsoft Geschäftskonto vorliegt kann man sich unter https://developer.microsoft.com/en-us/microsoft-365/dev-program eine Entwicklerlizenz anlegen. Hierzu benötigt man nur eine Mobilfunknummer um eine SMS zu empfangen. Man erstellt sich dann ein neues Konto mit einer .onmicrosoft.com Kennung und einem Administratoraccount. Diese kann dann zur Anmeldung bei Powerapps verwendet werden. Weitere Infos folgen noch. 
 
 Aufgabe 2: Erstellen der Umgebung
 
@@ -47,6 +48,8 @@ Aufgabe 2: Erstellen der Umgebung
     1. Geben Sie für **Name**  **[Meine Initialen] Übung** (Beispiel: AJ Übung) ein.
 
     1. Wählen Sie als **Typ** die Option **Testversion** aus (Wählen Sie nicht die Option *Testversion (abonnementbasiert)* aus).
+
+Marcus: Wenn dies mit einer Fehlermeldung abgelehnt wird, kann auch ein Entwickler Umgebung erstellt werden. Hier wird dann automatisch ein Dataverse installiert. 
 
     1. Ändern Sie die Umschaltfläche für **Dataverse-Datenspeicher hinzufügen?** in **Ja**. 
 
